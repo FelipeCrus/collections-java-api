@@ -45,7 +45,7 @@ public class CarrinhoDeCompras {
         carrinhoDeCompras.adicionarItem("Item 1", 2.0, 2);
         carrinhoDeCompras.adicionarItem("Item 2", 3.0, 2);
         carrinhoDeCompras.adicionarItem("Item 3", 8.0, 1);
-        carrinhoDeCompras.adicionarItem("Item 4", 1.0, 3);
+        carrinhoDeCompras.adicionarItem("Item 4", 2.0, 3);
 
         System.out.println("O numero total de itens no carrinho é: " + carrinhoDeCompras.exibirItens());
 
