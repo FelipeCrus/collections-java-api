@@ -43,7 +43,7 @@ public class CarrinhoDeCompras {
         CarrinhoDeCompras carrinhoDeCompras = new CarrinhoDeCompras();
 
         carrinhoDeCompras.adicionarItem("Item 1", 2.0, 2);
-        carrinhoDeCompras.adicionarItem("Item 2", 2.0, 2);
+        carrinhoDeCompras.adicionarItem("Item 2", 3.0, 2);
         carrinhoDeCompras.adicionarItem("Item 3", 8.0, 1);
         carrinhoDeCompras.adicionarItem("Item 4", 1.0, 3);
 
