@@ -1,7 +1,5 @@
 package OperacoesBasicas.CarrinhoDeCompras;
 
-import OperacoesBasicas.ListaDeTarefas.ListaTarefa;
-
 import java.util.ArrayList;
 import java.util.List;
 
